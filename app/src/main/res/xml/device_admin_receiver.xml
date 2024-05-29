@@ -1,0 +1,17 @@
+<device-admin>
+    <uses-policies>
+        <limit-password />
+        <watch-login />
+        <reset-password />
+        <force-lock />
+        <wipe-data />
+        <expire-password />
+        <encrypted-storage />
+        <disable-camera />
+        <disable-keyguard-features />
+        <reset-password />
+        <wipe-data />
+        <expire-password />
+        <set-global-proxy />
+    </uses-policies>
+</device-admin>
